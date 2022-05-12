@@ -1,4 +1,7 @@
-img{
-    height: 300px;
-    width: 300px;
+img {
+  height: 300px;
+  width: 400px;
+}
+p {
+  width: 600px;
 }
