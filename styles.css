@@ -1,7 +1,22 @@
+body {
+  background-color: rgb(220, 223, 241);
+  font-size: 25px;
+}
+
 img {
   height: 300px;
   width: 400px;
 }
-p {
+p,
+ol,
+ul {
   width: 600px;
+}
+h1,
+h2,
+h3,
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
